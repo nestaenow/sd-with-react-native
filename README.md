@@ -1,2 +1,2 @@
 # sd-with-react-native
-Diving into endless possibilities of mobile development using react native
+Diving into endless possibilities with mobile development using React Native
